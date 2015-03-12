@@ -30,6 +30,7 @@
 
 ## Completed
 - [Intro to HTML and CSS](https://www.udacity.com/course/ud304) - Not Your Typical Intro to Web Dev
+- [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 - [How to Use Git and GitHub](https://www.udacity.com/course/ud775) - Version Control for Code
 
 ## Skills to Learn
