@@ -9,7 +9,6 @@
 - [Intro to jQuery](https://www.udacity.com/course/ud245) - Manipulating Websites with Ease
 - [Object-Oriented JavaScript](https://www.udacity.com/course/ud015) - Writing Reusable and Maintainable Code
 - [HTML5 Canvas](https://www.udacity.com/course/ud292) - From Pixels to Animation!
-- [Website Performance Optimization](https://www.udacity.com/course/ud884) - The Critical Rendering Path
 - [Intro to AJAX](https://www.udacity.com/course/ud110) - Making Asynchronous Requests with jQuery
 - [JavaScript Design Patterns](https://www.udacity.com/course/ud989) - Organizing code in a disorganized world
 
@@ -31,6 +30,7 @@
 ## Completed
 - [Intro to HTML and CSS](https://www.udacity.com/course/ud304) - Not Your Typical Intro to Web Dev
 - [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
+- [Website Performance Optimization](https://www.udacity.com/course/ud884) - The Critical Rendering Path
 - [How to Use Git and GitHub](https://www.udacity.com/course/ud775) - Version Control for Code
 
 ## Skills to Learn
