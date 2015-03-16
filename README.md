@@ -1,5 +1,6 @@
-# Be Awesome!
- Personal list of links, tasks, and articles for study
+![image](https://raw.githubusercontent.com/lucasmlessa/be.Awesome/master/images/logo.png)
+
+**Personal list of links, tasks, and articles for study**
  
 ## Udacity Courses to take
  
