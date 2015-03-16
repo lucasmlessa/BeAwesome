@@ -9,7 +9,6 @@
 - [Intro to jQuery](https://www.udacity.com/course/ud245) - Manipulating Websites with Ease
 - [HTML5 Canvas](https://www.udacity.com/course/ud292) - From Pixels to Animation!
 - [Responsive Images](https://www.udacity.com/course/ud882) - Fewer Bytes, Faster Loads
-- [JavaScript Testing](https://www.udacity.com/course/ud549) - Developing Apps with Confidence
 - [JavaScript Design Patterns](https://www.udacity.com/course/ud989) - Organizing code in a disorganized world
 
 #### AngularJS and MEAN Stack
@@ -44,8 +43,9 @@
 
 ## Completed
 - [Intro to HTML and CSS](https://www.udacity.com/course/ud304) - Not Your Typical Intro to Web Dev
-- [JavaScript Basics](https://www.udacity.com/course/ud804) - The Programming Language of the Web
 - [Website Performance Optimization](https://www.udacity.com/course/ud884) - The Critical Rendering Path
+- [JavaScript Basics](https://www.udacity.com/course/ud804) - The Programming Language of the Web
+- [JavaScript Testing](https://www.udacity.com/course/ud549) - Developing Apps with Confidence
 - [Intro to AJAX](https://www.udacity.com/course/ud110) - Making Asynchronous Requests with jQuery
 - [How to Use Git and GitHub](https://www.udacity.com/course/ud775) - Version Control for Code
 - [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
