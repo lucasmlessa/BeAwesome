@@ -5,7 +5,6 @@
  
 ### Front-End Web Developer Nanodegree
 - [Responsive Web Design Fundamentals](https://www.udacity.com/course/ud893) - Great Experiences on Any Device
-- [JavaScript Basics](https://www.udacity.com/course/ud804) - The Programming Language of the Web
 - [Intro to jQuery](https://www.udacity.com/course/ud245) - Manipulating Websites with Ease
 - [Object-Oriented JavaScript](https://www.udacity.com/course/ud015) - Writing Reusable and Maintainable Code
 - [HTML5 Canvas](https://www.udacity.com/course/ud292) - From Pixels to Animation!
@@ -29,13 +28,16 @@
 
 ## Completed
 - [Intro to HTML and CSS](https://www.udacity.com/course/ud304) - Not Your Typical Intro to Web Dev
-- [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
+- [JavaScript Basics](https://www.udacity.com/course/ud804) - The Programming Language of the Web
 - [Website Performance Optimization](https://www.udacity.com/course/ud884) - The Critical Rendering Path
 - [How to Use Git and GitHub](https://www.udacity.com/course/ud775) - Version Control for Code
+- [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 
 ## Skills to Learn
 
-- Best pratices for UI and Design
+- SASS
+- Bower, Grunt, Gulp and Yeoman
+- Best pratices for UI and UX Design
 - Basic of Object-Oriented PHP (using this repo: [estudos-php](https://github.com/lucasmlessa/estudos-php))
 - Object-Oriented Javascript
 - Develop Android apps
