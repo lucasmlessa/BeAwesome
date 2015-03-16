@@ -7,11 +7,28 @@
 - [Responsive Web Design Fundamentals](https://www.udacity.com/course/ud893) - Great Experiences on Any Device
 - [Intro to jQuery](https://www.udacity.com/course/ud245) - Manipulating Websites with Ease
 - [HTML5 Canvas](https://www.udacity.com/course/ud292) - From Pixels to Animation!
+- [Responsive Images](https://www.udacity.com/course/ud882) - Fewer Bytes, Faster Loads
+- [JavaScript Testing](https://www.udacity.com/course/ud549) - Developing Apps with Confidence
 - [JavaScript Design Patterns](https://www.udacity.com/course/ud989) - Organizing code in a disorganized world
+
+#### AngularJS and MEAN Stack
+- [A Better Way to Learn AngularJS](https://thinkster.io/a-better-way-to-learn-angularjs/)
+- [Learn to Build Modern Web Apps with MEAN](https://thinkster.io/mean-stack-tutorial/)
 
 #### Design
 
 - [Intro to the Design of Everyday Things](https://www.udacity.com/course/design101) - Principles of Design
+
+#### Data
+- [Data Visualization and D3.js](https://www.udacity.com/course/ud507) - Communicating with Data
+- [Real-Time Analytics with Apache Storm](https://www.udacity.com/course/ud381) - The "Hadoop of Real-Time"
+
+#### Python
+- [Intro to Computer Science](https://www.udacity.com/course/cs101) - Build a Search Engine & a Social Network
+- [Programming Foundations with Python](https://www.udacity.com/course/ud036) - Learn Object-Oriented Programming
+- [Web Development](https://www.udacity.com/course/cs253) - How to Build a Blog
+- [Intro to Relational Databases](https://www.udacity.com/course/ud197) - SQL, DB-API, and More!
+- [Full Stack Foundations](https://www.udacity.com/course/ud088) - Build a data-driven web app with Python
 
 #### Java Programming
 
