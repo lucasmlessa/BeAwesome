@@ -6,7 +6,6 @@
 ### Front-End Web Developer Nanodegree
 - [Responsive Web Design Fundamentals](https://www.udacity.com/course/ud893) - Great Experiences on Any Device
 - [Intro to jQuery](https://www.udacity.com/course/ud245) - Manipulating Websites with Ease
-- [Object-Oriented JavaScript](https://www.udacity.com/course/ud015) - Writing Reusable and Maintainable Code
 - [HTML5 Canvas](https://www.udacity.com/course/ud292) - From Pixels to Animation!
 - [Intro to AJAX](https://www.udacity.com/course/ud110) - Making Asynchronous Requests with jQuery
 - [JavaScript Design Patterns](https://www.udacity.com/course/ud989) - Organizing code in a disorganized world
@@ -32,6 +31,8 @@
 - [Website Performance Optimization](https://www.udacity.com/course/ud884) - The Critical Rendering Path
 - [How to Use Git and GitHub](https://www.udacity.com/course/ud775) - Version Control for Code
 - [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
+- [Object-Oriented JavaScript](https://www.udacity.com/course/ud015) - Writing Reusable and Maintainable Code
+
 
 ## Skills to Learn
 
