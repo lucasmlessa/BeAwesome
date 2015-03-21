@@ -18,6 +18,7 @@
 #### Design
 
 - [Intro to the Design of Everyday Things](https://www.udacity.com/course/design101) - Principles of Design
+- Learn Sketch App 3 and Mobile UI and UX Fundamentals
 
 #### Data
 - [Data Visualization and D3.js](https://www.udacity.com/course/ud507) - Communicating with Data
