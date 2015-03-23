@@ -5,7 +5,6 @@
 ## Udacity Courses to take
  
 ### Front-End Web Developer Nanodegree
-- [Responsive Web Design Fundamentals](https://www.udacity.com/course/ud893) - Great Experiences on Any Device
 - [Intro to jQuery](https://www.udacity.com/course/ud245) - Manipulating Websites with Ease
 - [HTML5 Canvas](https://www.udacity.com/course/ud292) - From Pixels to Animation!
 - [Responsive Images](https://www.udacity.com/course/ud882) - Fewer Bytes, Faster Loads
@@ -45,6 +44,7 @@
 ## Completed
 - [Intro to HTML and CSS](https://www.udacity.com/course/ud304) - Not Your Typical Intro to Web Dev
 - [Website Performance Optimization](https://www.udacity.com/course/ud884) - The Critical Rendering Path
+- [Responsive Web Design Fundamentals](https://www.udacity.com/course/ud893) - Great Experiences on Any Device
 - [JavaScript Basics](https://www.udacity.com/course/ud804) - The Programming Language of the Web
 - [JavaScript Testing](https://www.udacity.com/course/ud549) - Developing Apps with Confidence
 - [Intro to AJAX](https://www.udacity.com/course/ud110) - Making Asynchronous Requests with jQuery
