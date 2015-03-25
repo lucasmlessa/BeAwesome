@@ -8,7 +8,6 @@
 - [Intro to jQuery](https://www.udacity.com/course/ud245) - Manipulating Websites with Ease
 - [HTML5 Canvas](https://www.udacity.com/course/ud292) - From Pixels to Animation!
 - [Responsive Images](https://www.udacity.com/course/ud882) - Fewer Bytes, Faster Loads
-- [JavaScript Design Patterns](https://www.udacity.com/course/ud989) - Organizing code in a disorganized world
 
 #### AngularJS and MEAN Stack
 - [A Better Way to Learn AngularJS](https://thinkster.io/a-better-way-to-learn-angularjs/)
@@ -51,7 +50,7 @@
 - [How to Use Git and GitHub](https://www.udacity.com/course/ud775) - Version Control for Code
 - [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 - [Object-Oriented JavaScript](https://www.udacity.com/course/ud015) - Writing Reusable and Maintainable Code
-
+- [JavaScript Design Patterns](https://www.udacity.com/course/ud989) - Organizing code in a disorganized world
 
 ## Skills to Learn
 
