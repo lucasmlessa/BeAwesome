@@ -58,8 +58,11 @@
 - Bower, Grunt, Gulp and Yeoman
 - Best pratices for UI and UX Design
 - Basic of Object-Oriented PHP (using this repo: [estudos-php](https://github.com/lucasmlessa/estudos-php))
-- Object-Oriented Javascript
 - Develop Android apps
 
+## Mastered skills
+:white_check_mark:  Object-Oriented Javascript
 
+:white_check_mark:  Responsive Web Design
 
+:white_check_mark:  Version Control
