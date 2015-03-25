@@ -14,8 +14,6 @@
 - [Learn to Build Modern Web Apps with MEAN](https://thinkster.io/mean-stack-tutorial/)
 
 #### Design
-
-- [Intro to the Design of Everyday Things](https://www.udacity.com/course/design101) - Principles of Design
 - Learn Sketch App 3 and Mobile UI and UX Fundamentals
 
 #### Data
@@ -51,6 +49,7 @@
 - [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 - [Object-Oriented JavaScript](https://www.udacity.com/course/ud015) - Writing Reusable and Maintainable Code
 - [JavaScript Design Patterns](https://www.udacity.com/course/ud989) - Organizing code in a disorganized world
+- [Intro to the Design of Everyday Things](https://www.udacity.com/course/design101) - Principles of Design
 
 ## Skills to Learn
 
