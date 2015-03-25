@@ -6,7 +6,6 @@
  
 ### Front-End Web Developer Nanodegree
 - [Intro to jQuery](https://www.udacity.com/course/ud245) - Manipulating Websites with Ease
-- [HTML5 Canvas](https://www.udacity.com/course/ud292) - From Pixels to Animation!
 - [Responsive Images](https://www.udacity.com/course/ud882) - Fewer Bytes, Faster Loads
 
 #### AngularJS and MEAN Stack
@@ -42,13 +41,14 @@
 - [Intro to HTML and CSS](https://www.udacity.com/course/ud304) - Not Your Typical Intro to Web Dev
 - [Website Performance Optimization](https://www.udacity.com/course/ud884) - The Critical Rendering Path
 - [Responsive Web Design Fundamentals](https://www.udacity.com/course/ud893) - Great Experiences on Any Device
+- [Intro to AJAX](https://www.udacity.com/course/ud110) - Making Asynchronous Requests with jQuery
+- [HTML5 Canvas](https://www.udacity.com/course/ud292) - From Pixels to Animation!
 - [JavaScript Basics](https://www.udacity.com/course/ud804) - The Programming Language of the Web
 - [JavaScript Testing](https://www.udacity.com/course/ud549) - Developing Apps with Confidence
-- [Intro to AJAX](https://www.udacity.com/course/ud110) - Making Asynchronous Requests with jQuery
-- [How to Use Git and GitHub](https://www.udacity.com/course/ud775) - Version Control for Code
-- [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 - [Object-Oriented JavaScript](https://www.udacity.com/course/ud015) - Writing Reusable and Maintainable Code
 - [JavaScript Design Patterns](https://www.udacity.com/course/ud989) - Organizing code in a disorganized world
+- [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
+- [How to Use Git and GitHub](https://www.udacity.com/course/ud775) - Version Control for Code
 - [Intro to the Design of Everyday Things](https://www.udacity.com/course/design101) - Principles of Design
 
 ## Skills to Learn
