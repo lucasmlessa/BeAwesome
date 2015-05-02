@@ -12,7 +12,7 @@
 #### AngularJS and MEAN Stack
 - [A Better Way to Learn AngularJS](https://thinkster.io/a-better-way-to-learn-angularjs/)
 - [Learn to Build Modern Web Apps with MEAN](https://thinkster.io/mean-stack-tutorial/)
-- [Codeacademy - Learn AngularJS](http://www.codecademy.com/pt-BR/learn/learn-angularjs) Learn to build web apps using AngularJS 1.x. By the end of the course, you'll be able to use AngularJS to create your own apps.
+- [Codeacademy - Learn AngularJS](http://www.codecademy.com/pt-BR/learn/learn-angularjs) Learn to build web apps using AngularJS 1.x.
 
 #### Design
 - Learn Sketch App 3 and Mobile UI and UX Fundamentals :small_orange_diamond: 
