@@ -2,7 +2,7 @@
 
 **Personal list of links, tasks, and articles for study**
  
-## Udacity Courses to take
+## Courses to take
  
 ### Front-End Web Developer Nanodegree
 - [Intro to jQuery](https://www.udacity.com/course/ud245) - Manipulating Websites with Ease
@@ -12,6 +12,7 @@
 #### AngularJS and MEAN Stack
 - [A Better Way to Learn AngularJS](https://thinkster.io/a-better-way-to-learn-angularjs/)
 - [Learn to Build Modern Web Apps with MEAN](https://thinkster.io/mean-stack-tutorial/)
+- [Codeacademy - Learn AngularJS](http://www.codecademy.com/pt-BR/learn/learn-angularjs) Learn to build web apps using AngularJS 1.x. By the end of the course, you'll be able to use AngularJS to create your own apps.
 
 #### Design
 - Learn Sketch App 3 and Mobile UI and UX Fundamentals :small_orange_diamond: 
@@ -44,9 +45,7 @@
 - [Gradle for Android and Java](https://www.udacity.com/course/gradle-for-android-and-java--ud867) - Build Better Apps Though Automation
 - [Google Play Services](https://www.udacity.com/course/google-play-services--ud876) - Use Google APIs to Improve Your Apps
 
-
-
-## Completed
+## Completed Courses
 - [Intro to HTML and CSS](https://www.udacity.com/course/ud304) - Not Your Typical Intro to Web Dev
 - [Website Performance Optimization](https://www.udacity.com/course/ud884) - The Critical Rendering Path
 - [Responsive Web Design Fundamentals](https://www.udacity.com/course/ud893) - Great Experiences on Any Device
