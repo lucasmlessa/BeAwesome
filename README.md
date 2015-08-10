@@ -40,7 +40,6 @@
 - [Mobile Web Development](https://www.udacity.com/course/cs256) - Building Mobile Web Experiences
 - [UX Design for Mobile Developers](https://www.udacity.com/course/ud849) - Learn to Design a 5-Star Android App
 - [Developing Android Apps](https://www.udacity.com/course/ud853) - Android Fundamentals
-- [Android App Development for Beginners](https://www.udacity.com/course/android-app-development-for-beginners--ud837) - How to Make Your First Android App
 - [Advanced Android App Development](https://www.udacity.com/course/advanced-android-app-development--ud855) - Productionize and Publish Your Apps
 - [Gradle for Android and Java](https://www.udacity.com/course/gradle-for-android-and-java--ud867) - Build Better Apps Though Automation
 - [Google Play Services](https://www.udacity.com/course/google-play-services--ud876) - Use Google APIs to Improve Your Apps
@@ -58,6 +57,7 @@
 - [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 - [How to Use Git and GitHub](https://www.udacity.com/course/ud775) - Version Control for Code
 - [Intro to the Design of Everyday Things](https://www.udacity.com/course/design101) - Principles of Design
+- [Android App Development for Beginners](https://www.udacity.com/course/android-app-development-for-beginners--ud837) - How to Make Your First Android App
 
 ## Skills to Learn
 
